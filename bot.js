@@ -10,7 +10,7 @@ function answerQuery(query) {
   return "Sorry Dave, I cannot do that.";
 }
 
-
+//duncan is lame 
 function handleSayClick() {
   // We first get the 'message' that the user entered and 'conversation' element
   // which we are using for showing all the conversation history
